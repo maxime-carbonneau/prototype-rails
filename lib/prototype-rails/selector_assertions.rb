@@ -1,6 +1,6 @@
 require 'active_support/core_ext/module/aliasing'
 require 'action_dispatch/testing/assertions'
-require 'action_dispatch/testing/assertions/selector'
+# require 'action_dispatch/testing/assertions/selector'
 
 #--
 # Copyright (c) 2006 Assaf Arkin (http://labnotes.org)
